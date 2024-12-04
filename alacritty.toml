@@ -1,0 +1,18 @@
+[window]
+padding.x = 12
+padding.y = 12
+decorations = "none"
+opacity = 0.87
+dimensions = { columns = 155, lines = 38}
+option_as_alt = "Both"
+
+[font]
+size = 12
+
+[cursor]
+style = {shape = "Underline", blinking = "On"}
+
+[general]
+import = [
+	"~/.config/alacritty/themes/nocturne.toml"
+]

@@ -1,0 +1,39 @@
+# My Custom Theme for Alacritty
+
+# Default Colors
+[colors.primary]
+background = "#0f111f"
+foreground = "#b5b5b0"
+bright_foreground = "#e07365"
+
+# Normal colors
+[colors.normal]
+black = "#1a1f28"
+red = "#d87566" 
+green = "#4aa380"
+yellow = "#d9ad50"
+blue = "#4fa2c4"  
+magenta = "#d26060"
+cyan = "#81cbb4" 
+white = "#dcdcdc" 
+
+# Bright colors
+[colors.bright]
+black = "#121620"      
+red = "#de8174"        
+green = "#50aa86"     
+yellow = "#e5b558"   
+blue = "#57a7cf"    
+magenta = "#d66767" 
+cyan = "#87d7be"    
+white = "#e5e5e5"  
+
+# Cursor and selection
+[colors.cursor]
+text = "#0f111f"
+cursor = "#ACB0BE"
+
+# Selection colors
+[colors.selection]
+text = "#f0f0f0"
+background = "#2a2d3a"
